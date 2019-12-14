@@ -1,5 +1,5 @@
-
-<img src="https://github.com/baljnyam/react-game/blob/master/img/tic-tac-toe-react-game.png" alt="tic-tac-toe"/>
+<a href="https://master.d5lgwycn7orew.amplifyapp.com/" >
+<img src="https://github.com/baljnyam/react-game/blob/master/img/tic-tac-toe-react-game.png" alt="tic-tac-toe"/></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
