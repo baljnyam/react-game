@@ -1,4 +1,4 @@
-<p>AWS Amplify Deployment - Click on picture: &#8595</p> 
+<p>AWS Amplify Deployment - Click on a picture: &#8595</p> 
 <p>https://master.d5lgwycn7orew.amplifyapp.com</p>
 <a href="https://master.d5lgwycn7orew.amplifyapp.com/" target="_blank">
 <img src="https://github.com/baljnyam/react-game/blob/master/img/tic-tac-toe-react-game.png" alt="tic-tac-toe"/></a>
