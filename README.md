@@ -1,3 +1,4 @@
+<p>Click on picture: &#8595</p>
 <a href="https://master.d5lgwycn7orew.amplifyapp.com/" >
 <img src="https://github.com/baljnyam/react-game/blob/master/img/tic-tac-toe-react-game.png" alt="tic-tac-toe"/></a>
 
